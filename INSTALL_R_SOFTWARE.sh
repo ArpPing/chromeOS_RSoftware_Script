@@ -43,7 +43,6 @@ rm -f "$absPath/rstudio-2023.06.0-421-amd64.deb"
 echo "For help on R you can go to: https://www.r-project.org/, and then look at all the documenation in the left side"
 echo "You can also look at Codecademy, FreeCodeCamp on Youtube to Learn R Software, and other sources that you might find"
 
-echo "Scipt Creator: Miftahul Huq"
 echo "          ---          ---         "
 echo "        /     \      /     \       "
 echo "        \     /      \     /       "
