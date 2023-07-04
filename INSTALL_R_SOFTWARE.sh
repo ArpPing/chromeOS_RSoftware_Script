@@ -5,7 +5,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 # Adding any dependencies that may be needed
 echo "Adding any dependencies that may be needed"
-sudo apt-get install wget dirmngr gnupg apt-utils apt-transport-https ca-certificates software-properties-common libnss3 libatlas3-base libopenblas-base -y
+sudo apt-get install wget dirmngr gnupg apt-utils apt-transport-https ca-certificates software-properties-common libnss3 libatlas3-base libopenblas-base libssl1.1 libclang-dev libxkbcommon-x11-0 libsqlite3-0 libpq5 libc6 -y
 
 #-------------------------------------------------------------------------Start of R program installation---------------------------------------------------------------------
 
